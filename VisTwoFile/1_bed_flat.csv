@@ -1,21 +1,21 @@
 ﻿Location,Count,Median,Percentile 25,Percentile 75
-Albert Park-Middle Park-West St Kilda,290,325,295,370
+Albert Park0Middle Park0West St Kilda,290,325,295,370
 Armadale,236,330,295,390
 Carlton North,77,320,300,360
-Carlton-Parkville,2583,255,210,320
-CBD-St Kilda Rd,7764,300,270,350
-Collingwood-Abbotsford,944,350,315,390
+Carlton0Parkville,2583,255,210,320
+CBD0St Kilda Rd,7764,300,270,350
+Collingwood0Abbotsford,944,350,315,390
 Docklands,1461,330,300,360
 East Melbourne,272,360,310,420
 East St Kilda,498,295,265,340
 Elwood,494,315,280,360
 Fitzroy,308,380,300,425
-Fitzroy North-Clifton Hill,286,330,295,375
-Flemington-Kensington,431,320,280,350
-North Melbourne-West Melbourne,1768,310,270,350
+Fitzroy North0Clifton Hill,286,330,295,375
+Flemington0Kensington,431,320,280,350
+North Melbourne0West Melbourne,1768,310,270,350
 Port Melbourne,321,400,365,440
-Prahran-Windsor,1014,325,275,370
-Richmond-Burnley,1164,350,300,380
+Prahran0Windsor,1014,325,275,370
+Richmond0Burnley,1164,350,300,380
 South Melbourne,465,345,310,380
 South Yarra,2180,330,300,370
 Southbank,2088,330,300,350
@@ -24,125 +24,125 @@ Toorak,165,310,270,360
 Balwyn,89,340,320,350
 Blackburn,155,335,305,350
 Box Hill,624,315,210,350
-Bulleen-Templestowe-Doncaster,172,340,320,350
-Burwood-Ashburton,219,240,200,320
-Camberwell-Glen Iris,346,330,280,360
-Canterbury-Surrey Hills-Mont Albert,37,350,300,390
-Chadstone-Oakleigh,169,340,310,370
+Bulleen0Templestowe0Doncaster,172,340,320,350
+Burwood0Ashburton,219,240,200,320
+Camberwell0Glen Iris,346,330,280,360
+Canterbury0Surrey Hills0Mont Albert,37,350,300,390
+Chadstone0Oakleigh,169,340,310,370
 Clayton,456,280,235,325
-Doncaster East-Donvale,49,340,320,350
+Doncaster East0Donvale,49,340,320,350
 East Hawthorn,469,320,250,350
-Glen Waverley-Mulgrave,115,355,310,400
+Glen Waverley0Mulgrave,115,355,310,400
 Hawthorn,843,300,240,350
 Kew,84,338,301,360
 Mount Waverley,18,338,330,350
-Nunawading-Mitcham,84,330,310,335
-Vermont-Forest Hill-Burwood East,53,350,330,350
-Aspendale-Chelsea-Carrum,49,310,275,350
+Nunawading0Mitcham,84,330,310,335
+Vermont0Forest Hill0Burwood East,53,350,330,350
+Aspendale0Chelsea0Carrum,49,310,275,350
 Bentleigh,231,300,260,345
 Brighton,95,380,350,400
-Brighton East,-,-,-,-
+Brighton East,0,0,0,0
 Carnegie,427,290,250,330
 Caulfield,663,300,250,350
 Cheltenham,146,350,320,360
 Elsternwick,276,300,265,365
-Hampton-Beaumaris,161,340,310,385
+Hampton0Beaumaris,161,340,310,385
 Malvern,145,325,295,370
 Malvern East,381,300,255,340
-Mentone-Parkdale-Mordialloc,261,310,280,345
-Murrumbeena-Hughesdale,270,280,250,305
+Mentone0Parkdale0Mordialloc,261,310,280,345
+Murrumbeena0Hughesdale,270,280,250,305
 Altona,108,280,250,303
 Footscray,669,290,225,340
-Keilor East-Avondale Heights,239,320,300,340
+Keilor East0Avondale Heights,239,320,300,340
 Melton,20,352,310,363
-Newport-Spotswood,78,290,250,330
-St Albans-Deer Park,49,250,230,300
+Newport0Spotswood,78,290,250,330
+St Albans0Deer Park,49,250,230,300
 Sunshine,142,233,218,270
-Sydenham,-,-,-,-
-Werribee-Hoppers Crossing,81,295,260,310
+Sydenham,0,0,0,0
+Werribee0Hoppers Crossing,81,295,260,310
 West Footscray,189,260,230,290
 Williamstown,67,350,295,380
-Yarraville-Seddon,174,270,240,320
-Broadmeadows-Roxburgh Park,62,250,220,290
+Yarraville0Seddon,174,270,240,320
+Broadmeadows0Roxburgh Park,62,250,220,290
 Brunswick,578,320,285,350
-Coburg-Pascoe Vale South,166,310,280,335
+Coburg0Pascoe Vale South,166,310,280,335
 Craigieburn,15,300,240,310
 East Brunswick,576,350,320,370
 Essendon,394,300,275,330
-Gladstone Park-Tullamarine,19,295,270,335
-Keilor,-,-,-,-
-Moonee Ponds-Ascot Vale,552,330,295,365
-Oak Park-Glenroy-Fawkner,78,285,250,300
-Pascoe Vale-Coburg North,59,250,185,300
+Gladstone Park0Tullamarine,19,295,270,335
+Keilor,0,0,0,0
+Moonee Ponds0Ascot Vale,552,330,295,365
+Oak Park0Glenroy0Fawkner,78,285,250,300
+Pascoe Vale0Coburg North,59,250,185,300
 Sunbury,11,265,230,320
 West Brunswick,440,290,250,313
-Bundoora-Greensborough-Hurstbridge,259,300,210,323
-Eltham-Research-Montmorency,26,325,290,370
-Fairfield-Alphington,268,295,260,340
-Heidelberg-Heidelberg West,174,330,300,350
-Ivanhoe-Ivanhoe East,90,350,300,370
-Mill Park-Epping,43,300,285,310
+Bundoora0Greensborough0Hurstbridge,259,300,210,323
+Eltham0Research0Montmorency,26,325,290,370
+Fairfield0Alphington,268,295,260,340
+Heidelberg0Heidelberg West,174,330,300,350
+Ivanhoe0Ivanhoe East,90,350,300,370
+Mill Park0Epping,43,300,285,310
 Northcote,357,320,285,360
 Preston,335,320,280,340
 Reservoir,189,300,280,320
-Thomastown-Lalor,37,300,280,310
+Thomastown0Lalor,37,300,280,310
 Thornbury,384,295,270,330
-Whittlesea,-,-,-,-
+Whittlesea,0,0,0,0
 Bayswater,13,290,235,345
 Boronia,41,330,295,350
-Croydon-Lilydale,56,300,265,320
-Ferntree Gully,-,-,-,-
+Croydon0Lilydale,56,300,265,320
+Ferntree Gully,0,0,0,0
 Ringwood,84,350,300,360
 Rowville,13,330,320,350
-Wantirna-Scoresby,42,348,310,350
+Wantirna0Scoresby,42,348,310,350
 Yarra Ranges,40,300,285,328
 Total,299,320,280,350
 Berwick,16,300,263,320
 Cranbourne,34,280,270,300
 Dandenong,222,270,250,300
-Dandenong North-Endeavour Hills,67,270,260,300
-Narre Warren-Hampton Park,18,250,225,300
+Dandenong North0Endeavour Hills,67,270,260,300
+Narre Warren0Hampton Park,18,250,225,300
 Noble Park,188,250,198,270
 Pakenham,13,295,250,300
 Springvale,147,270,240,310
-Dromana-Portsea,22,310,280,325
+Dromana0Portsea,22,310,280,325
 Frankston,306,250,220,295
-Hastings-Flinders,-,-,-,-
-Mt Eliza-Mornington-Mt Martha,14,365,300,400
-Seaford-Carrum Downs,63,260,250,280
-Belmont-Grovedale,122,268,240,300
+Hastings0Flinders,0,0,0,0
+Mt Eliza0Mornington0Mt Martha,14,365,300,400
+Seaford0Carrum Downs,63,260,250,280
+Belmont0Grovedale,122,268,240,300
 Corio,20,223,205,248
-Geelong-Newcomb,145,295,235,379
-Herne Hill-Geelong West,155,250,220,275
-Lara,-,-,-,-
+Geelong0Newcomb,145,295,235,379
+Herne Hill0Geelong West,155,250,220,275
+Lara,0,0,0,0
 Newtown,45,250,210,285
 North Geelong,40,230,220,248
 Ballarat,58,205,185,240
-Mount Clear-Buninyong,-,-,-,-
-Sebastopol-Delacombe,52,228,190,352
-Wendouree-Alfredton,70,190,170,220
+Mount Clear0Buninyong,0,0,0,0
+Sebastopol0Delacombe,52,228,190,352
+Wendouree0Alfredton,70,190,170,220
 Bendigo,28,243,220,323
-Flora Hill-Bendigo East,32,200,153,225
-Golden Square-Kangaroo Flat,15,195,180,250
+Flora Hill0Bendigo East,32,200,153,225
+Golden Square0Kangaroo Flat,15,195,180,250
 North Bendigo,16,223,215,345
 Bairnsdale,23,220,185,240
 Benalla,26,220,180,280
-Castlemaine,-,-,-,-
+Castlemaine,0,0,0,0
 Echuca,25,200,170,240
 Hamilton,21,180,160,210
 Horsham,31,225,180,275
 Mildura,61,210,180,335
-Moe-Newborough,73,180,170,200
+Moe0Newborough,73,180,170,200
 Morwell,32,188,170,210
-Ocean Grove-Barwon Heads,-,-,-,-
+Ocean Grove0Barwon Heads,0,0,0,0
 Portland,18,235,180,275
-Sale-Maffra,73,200,190,235
+Sale0Maffra,73,200,190,235
 Seymour,15,200,180,230
 Shepparton,84,215,185,260
 Swan Hill,54,170,160,180
 Torquay,25,300,295,315
 Traralgon,81,210,200,230
 Wangaratta,50,198,180,230
-Warragul,-,-,-,-
+Warragul,0,0,0,0
 Warrnambool,48,240,190,300
 Wodonga,54,200,185,210
