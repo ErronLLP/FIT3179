@@ -4,6 +4,19 @@
   "height": 450,
   "title": "Fire in Australia from 1/8/2019 to 31/9/2019",
   "projection": {"type": "equirectangular"},
+  "params": [
+    {
+      "name": "acq_date_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 43678,
+        "max": 43738,
+        "step": 1,
+        "name": "date: "
+      }
+    }
+  ],
   "layer": [
     {
       "data": {
@@ -16,19 +29,7 @@
       "data": {
         "url": "https://raw.githubusercontent.com/ErronLLP/FIT3179/main/VisTwoFile/fire_archive_V1_96617.csv"
       },
-      "params": [
-        {
-          "name": "acq_date_Above",
-          "value": 0,
-          "bind": {
-            "input": "range",
-            "min": 43678,
-            "max": 43738,
-            "step": 1,
-            "name": "date: "
-          }
-        }
-      ],
+
       "transform": [
         {"filter": "datum.acq_date > acq_date_Above"}
       ],
