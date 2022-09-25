@@ -38,9 +38,9 @@
         "longitude": {"field": "longitude", "type": "quantitative"},
         "latitude": {"field": "latitude", "type": "quantitative"},
         "color": {
-          "field": "bright_ti5",
+          "field": "bright_ti4",
           "type": "quantitative",
-          "title": "bright_ti5",
+          "title": "bright_ti4",
           "scale": {"scheme": "reds"}
         },
         "opacity": {"value": 0.6}

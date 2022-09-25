@@ -23,7 +23,7 @@
         "color": {
           "field": "bright_ti5",
           "type": "quantitative",
-          "title": "bright_ti5",
+          "title": "Brightness temperature",
           "scale": {"scheme": "reds"}
         },
         "opacity": {"value": 0.6}
