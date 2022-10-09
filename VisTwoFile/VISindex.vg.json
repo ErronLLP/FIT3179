@@ -33,7 +33,7 @@
       "transform": [
         {"filter": "datum.acq_date > acq_date_Above"}
       ],
-      "mark": {"type": "circle", "tooltip": {"content": "data"}},
+      "mark": {"type": "circle", "tooltip": {"content": "encoding"}},
       "encoding": {
         "longitude": {"field": "longitude", "type": "quantitative"},
         "latitude": {"field": "latitude", "type": "quantitative"},
