@@ -11,7 +11,7 @@
       "bind": {
         "input": "range",
         "min": 43678,
-        "max": 43738,
+        "max": 43707,
         "step": 1,
         "name": "date: "
       }
