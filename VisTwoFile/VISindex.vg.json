@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
+  "width": 800,
   "height": 450,
   "title": "Fire in Australia from 1/8/2019 to 30/8/2019",
   "projection": {"type": "equirectangular"},
