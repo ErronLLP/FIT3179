@@ -1,0 +1,148 @@
+﻿Location,Count,Median,Percentile 25,Percentile 75
+Albert Park-Middle Park-West St Kilda,84,628,568,728
+Armadale,39,650,580,700
+Carlton North,142,588,550,660
+Carlton-Parkville,73,570,510,635
+CBD-St Kilda Rd,-,-,-,-
+Collingwood-Abbotsford,165,590,520,640
+Docklands,-,-,-,-
+East Melbourne,-,-,-,-
+East St Kilda,55,565,510,660
+Elwood,15,675,560,730
+Fitzroy,78,600,560,700
+Fitzroy North-Clifton Hill,207,600,550,660
+Flemington-Kensington,231,500,450,550
+North Melbourne-West Melbourne,88,515,465,585
+Port Melbourne,84,580,520,650
+Prahran-Windsor,224,600,528,700
+Richmond-Burnley,404,600,525,658
+South Melbourne,79,560,500,675
+South Yarra,116,610,530,720
+Southbank,14,450,370,550
+St Kilda,44,578,503,635
+Toorak,17,560,500,680
+Balwyn,20,420,378,510
+Blackburn,24,405,378,438
+Box Hill,50,400,370,430
+Bulleen-Templestowe-Doncaster,35,420,390,470
+Burwood-Ashburton,48,397,378,428
+Camberwell-Glen Iris,52,485,433,540
+Canterbury-Surrey Hills-Mont Albert,27,475,400,530
+Chadstone-Oakleigh,37,400,380,435
+Clayton,55,400,370,420
+Doncaster East-Donvale,22,398,375,425
+East Hawthorn,44,573,500,645
+Glen Waverley-Mulgrave,27,400,370,450
+Hawthorn,42,595,525,675
+Kew,40,510,455,590
+Mount Waverley,19,400,370,460
+Nunawading-Mitcham,54,400,380,430
+Vermont-Forest Hill-Burwood East,23,390,375,420
+Aspendale-Chelsea-Carrum,56,423,390,475
+Bentleigh,74,475,420,500
+Brighton,26,620,570,730
+Brighton East,26,550,475,600
+Carnegie,22,423,395,510
+Caulfield,59,500,460,570
+Cheltenham,68,480,435,520
+Elsternwick,15,599,495,695
+Hampton-Beaumaris,39,550,495,680
+Malvern,16,638,550,738
+Malvern East,43,520,465,585
+Mentone-Parkdale-Mordialloc,29,480,445,500
+Murrumbeena-Hughesdale,33,435,400,490
+Altona,153,360,340,390
+Footscray,141,450,395,490
+Keilor East-Avondale Heights,41,390,365,410
+Melton,36,298,280,320
+Newport-Spotswood,97,450,420,490
+St Albans-Deer Park,71,320,290,350
+Sunshine,103,350,320,360
+Sydenham,46,365,350,380
+Werribee-Hoppers Crossing,150,320,300,335
+West Footscray,119,399,350,450
+Williamstown,38,500,450,550
+Yarraville-Seddon,194,500,450,550
+Broadmeadows-Roxburgh Park,73,330,315,350
+Brunswick,227,540,495,600
+Coburg-Pascoe Vale South,159,460,400,500
+Craigieburn,78,350,340,360
+East Brunswick,87,540,510,600
+Essendon,85,420,380,450
+Gladstone Park-Tullamarine,12,365,330,393
+Keilor,-,-,-,-
+Moonee Ponds-Ascot Vale,147,500,440,550
+Oak Park-Glenroy-Fawkner,132,360,340,395
+Pascoe Vale-Coburg North,93,400,380,430
+Sunbury,22,350,330,380
+West Brunswick,66,488,450,545
+Bundoora-Greensborough-Hurstbridge,86,388,360,420
+Eltham-Research-Montmorency,23,420,360,450
+Fairfield-Alphington,31,550,510,575
+Heidelberg-Heidelberg West,108,375,343,413
+Ivanhoe-Ivanhoe East,26,470,420,500
+Mill Park-Epping,79,350,330,360
+Northcote,159,580,510,635
+Preston,117,450,400,500
+Reservoir,131,370,340,400
+Thomastown-Lalor,46,340,325,360
+Thornbury,98,550,480,580
+Whittlesea,54,348,330,360
+Bayswater,13,370,350,425
+Boronia,27,365,350,395
+Croydon-Lilydale,85,380,370,400
+Ferntree Gully,19,350,340,400
+Ringwood,57,385,365,415
+Rowville,-,-,-,-
+Wantirna-Scoresby,15,400,390,430
+Yarra Ranges,82,373,330,410
+Total,305,380,350,410
+Berwick,49,350,330,360
+Cranbourne,58,345,330,360
+Dandenong,54,360,330,380
+Dandenong North-Endeavour Hills,46,323,300,350
+Narre Warren-Hampton Park,38,345,315,380
+Noble Park,28,348,310,378
+Pakenham,68,333,320,350
+Springvale,44,370,320,420
+Dromana-Portsea,117,371,340,400
+Frankston,66,368,350,395
+Hastings-Flinders,31,400,360,460
+Mt Eliza-Mornington-Mt Martha,39,460,400,510
+Seaford-Carrum Downs,44,360,325,393
+Belmont-Grovedale,89,370,350,390
+Corio,99,285,260,310
+Geelong-Newcomb,108,360,348,400
+Herne Hill-Geelong West,81,375,340,400
+Lara,16,340,320,368
+Newtown,35,400,360,465
+North Geelong,58,350,320,380
+Ballarat,194,300,275,325
+Mount Clear-Buninyong,11,325,300,340
+Sebastopol-Delacombe,57,280,270,300
+Wendouree-Alfredton,77,300,270,330
+Bendigo,64,350,310,375
+Flora Hill-Bendigo East,50,320,285,340
+Golden Square-Kangaroo Flat,43,300,280,330
+North Bendigo,45,300,275,320
+Bairnsdale,16,300,300,318
+Benalla,34,320,290,350
+Castlemaine,31,350,335,395
+Echuca,17,285,280,330
+Hamilton,35,275,250,310
+Horsham,36,273,225,300
+Mildura,89,280,260,320
+Moe-Newborough,46,253,225,280
+Morwell,53,235,210,260
+Ocean Grove-Barwon Heads,20,455,410,500
+Portland,31,340,300,360
+Sale-Maffra,58,295,270,350
+Seymour,15,300,250,360
+Shepparton,69,280,260,320
+Swan Hill,13,280,260,290
+Torquay,22,455,410,500
+Traralgon,48,320,290,350
+Wangaratta,34,298,260,330
+Warragul,19,320,300,350
+Warrnambool,68,350,320,385
+Wodonga,43,310,290,335
