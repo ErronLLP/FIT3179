@@ -31,7 +31,7 @@
       },
 
       "transform": [
-        {"filter": "datum.acq_date > acq_date_Above"}
+        {"filter": "datum.acq_date == acq_date_Above"}
       ],
       "mark": {"type": "circle", "tooltip": {"content": "encoding"}},
       "encoding": {
