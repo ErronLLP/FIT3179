@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 800,
   "height": 450,
-  "title": "Fire in Australia from 1/8/2019 to 30/8/2019",
   "projection": {"type": "equirectangular"},
   "params": [
     {
@@ -40,11 +39,10 @@
         "color": {
           "field": "bright_ti4",
           "type": "quantitative",
-          "title": "bright_ti4",
+          "title": "Brightness temperature",
           "scale": {
-            "type": "threshold",
-            "domain": [300, 305, 310, 315, 320],
-            "range": ["#2c7bb6", "##abd9e9", "#ffffbf", "#fdae61", "#d7191c"]
+            "type": "linear",
+            "scheme": "reds"
           }
         },
         "opacity": {"value": 0.6}

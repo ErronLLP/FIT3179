@@ -1,0 +1,19 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple pie chart with embedded data.",
+    "data": {
+      "values": [
+        {"category": "280-300", "Percentage": 7.47},
+        {"category": "300-320", "Percentage": 25.95},
+        {"category": "320-340", "Percentage": 30.25},
+        {"category": "340-360", "Percentage": 30.18},
+        {"category": "360-380", "Percentage": 6.15}
+      ]
+    },
+   "mark": {"type": "arc", "tooltip": true},
+    "encoding": {
+      "theta": {"field": "Percentage", "type": "quantitative", "stack": "normalize"},
+      "color": {"field": "category", "type": "nominal", "legend": null}
+    }
+
+}

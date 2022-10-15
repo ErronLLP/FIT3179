@@ -1,14 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Number of Fire detected from 1/8/2019 to 30/8/2019",
-  "data": {"url": "https://raw.githubusercontent.com/ErronLLP/FIT3179/main/VisTwoFile/fire_archive_V1_96617.csv"},
-  "mark": {"type":"bar","tooltip": {"content": "encoding"}},
+  "data": {
+    "url": "https://raw.githubusercontent.com/ErronLLP/FIT3179/main/VisTwoFile/fire_archive_V1_96617.csv"
+  },
+  "mark": {"type": "line", "point":true, "tooltip": {"content": "encoding"}},
   "encoding": {
-    "x": {
-      "bin": true,
-      "field": "acq_date",
-      "title": "Fire date"
-    },
+    "x": {"field": "acq_date", "type": "quantitative", "title": "Fire date"},
     "y": {"aggregate": "count"}
   }
 }
