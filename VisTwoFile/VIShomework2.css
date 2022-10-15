@@ -46,7 +46,7 @@ body{
   .description2 {
     padding-top: 20px;
     padding-left: 80px;
-    padding-right: 15px;
+    padding-right: 80px;
     font-size: 15px;
     word-spacing: 2px;
   }
@@ -54,7 +54,7 @@ body{
   .description-right {
     padding-top: 20px;
     padding-left: 80px;
-    padding-right: 15px;
+    padding-right: 80px;
     font-size: 15px;
     word-spacing: 2px;
   }
@@ -62,14 +62,14 @@ body{
   .description-right-2 {
     padding-top: 20px;
     padding-left: 80px;
-    padding-right: 15px;
+    padding-right: 80px;
     font-size: 15px;
     word-spacing: 2px;
   }
   .description-right-3 {
     padding-top: 0px;
     padding-left: 300px;
-    padding-right: 15px;
+    padding-right: 80px;
     font-size: 15px;
   }
   
