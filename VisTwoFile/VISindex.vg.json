@@ -6,7 +6,7 @@
   "params": [
     {
       "name": "acq_date_Above",
-      "value": 0,
+      "value": 1,
       "bind": {
         "input": "range",
         "min": 1,
