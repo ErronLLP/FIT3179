@@ -17,6 +17,10 @@ body{
     font-size: 30px;
     
   }
+
+  .BaseINF {
+    text-align: center;
+  }
   
   .page {
     width: 1100px;
