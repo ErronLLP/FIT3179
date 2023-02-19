@@ -44,7 +44,8 @@ body{
   .vis-container {
     width: 70%;
   }
-  
+  /* 查一下怎么去掉右上角那三个点 */
+
   .description h2,h1 {
     margin-top: 0px;
   }
